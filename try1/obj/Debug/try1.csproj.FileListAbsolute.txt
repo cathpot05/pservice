@@ -1,0 +1,95 @@
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\try1.exe.config
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\try1.exe
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\try1.pdb
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\obj\Debug\try1.csprojResolveAssemblyReference.cache
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\obj\Debug\MainWindow.g.cs
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\obj\Debug\App.g.cs
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\obj\Debug\try1_MarkupCompile.cache
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\obj\Debug\try1_MarkupCompile.lref
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\obj\Debug\MainWindow.baml
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\obj\Debug\try1.g.resources
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\obj\Debug\try1.Properties.Resources.resources
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\obj\Debug\try1.csproj.GenerateResource.Cache
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\obj\Debug\try1.exe
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\obj\Debug\try1.pdb
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\obj\Debug\App.baml
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\obj\Debug\SampleData\tblHasAccess\tblHasAccess.baml
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\ojt\Documents\ANGEL\P R O J E C T\try1\try1\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\try1.exe.config
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\obj\Debug\try1.exe
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\obj\Debug\try1.pdb
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\try1.exe
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\try1.pdb
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\obj\Debug\try1.csprojResolveAssemblyReference.cache
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\obj\Debug\MainWindow.g.cs
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\obj\Debug\App.g.cs
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\obj\Debug\try1_MarkupCompile.cache
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\obj\Debug\try1_MarkupCompile.lref
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\obj\Debug\MainWindow.baml
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\obj\Debug\try1.g.resources
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\obj\Debug\try1.Properties.Resources.resources
+C:\Users\KEPI\Documents\KINPO\TEST ANGEL\try1\try1\obj\Debug\try1.csproj.GenerateResource.Cache
